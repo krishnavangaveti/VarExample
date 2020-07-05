@@ -7,7 +7,6 @@ public class VariableEample {
 		String myVar = "local myVar";
 		System.out.println("my local var is :" + myVar);
 	}
-
 	public static void main(String args[]) {
 		VariableEample obj1 = new VariableEample();
 		System.out.println("class instance variable :" + obj1.myVar);
